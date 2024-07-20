@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Bona Nova SC", serif;
+        font-weight: 400;
+}
+
+
+td{
+background-color: black;
+color: white;
+padding: 15px;
+
+}
+.first-row{
+    background-color: rgb(246, 0, 0) !important 
+}
+.second-row {
+    background-color: navy !important
+}
+.third-row {
+    background-color: khaki !important
+}
+.fourth-row {
+    background-color: orange !important
+}
+.fifth-row {
+    background-color: purple !important
+}
+.sixth-row {
+    background-color: silver !important
+}
+.seventh-row {
+    background-color: pink !important
+}
+.eighth-row {
+    background-color: gold !important
+}
+.ninth-row {
+    background-color: cornflowerblue !important
+}
+.first-coloumn{
+    background-color: white;
+ 
+}
